@@ -27,7 +27,7 @@ This course is one of the most comprehensive guides to ReactJS, teaching all the
 
 ### Certificate of Completion:
 
-![Certificate](https://drive.google.com/file/d/10ctVBLhm1DwHOZHiWkI0wVfX6Q0MAMNj/view?usp=drive_link)
+![Certificate]([https://drive.google.com/file/d/10ctVBLhm1DwHOZHiWkI0wVfX6Q0MAMNj/view?usp=drive_link](https://drive.google.com/file/d/10ctVBLhm1DwHOZHiWkI0wVfX6Q0MAMNj/view?usp=drive_link))
 
 ## Features & Technologies Used
 
@@ -43,7 +43,7 @@ Throughout the course, I built multiple demo projects and practice applications 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-complete-guide-coursework.git
+   git clone https://github.com/Ahmad-Ajajeh/react-complete-guide-coursework.git
    ```
 2. Install dependencies:
    ```bash
