@@ -27,7 +27,8 @@ This course is one of the most comprehensive guides to ReactJS, teaching all the
 
 ### Certificate of Completion:
 
-![Certificate]([https://drive.google.com/file/d/10ctVBLhm1DwHOZHiWkI0wVfX6Q0MAMNj/view?usp=drive_link](https://drive.google.com/file/d/10ctVBLhm1DwHOZHiWkI0wVfX6Q0MAMNj/view?usp=drive_link))
+[![Certificate](https://drive.usercontent.google.com/download?id=10ctVBLhm1DwHOZHiWkI0wVfX6Q0MAMNj&authuser=0)](https://drive.google.com/file/d/1ziWiQ3WYCMUmlbTAfEmdGUv5GkB9KyZ8/view?usp=drive_link)
+
 
 ## Features & Technologies Used
 
